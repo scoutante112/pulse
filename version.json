@@ -1,6 +1,6 @@
 {
-    "version": "1.0.1",
-    "releaseNotes": "Fixes bugs and improves performance.",
+    "version": "1.0.0",
+    "releaseNotes": "Releas av system",
     "updateUrl": "https://github.com/yourusername/pulse-app/releases/tag/v1.0.1",
     "mandatory": false
   }
